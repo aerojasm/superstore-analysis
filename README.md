@@ -6,4 +6,4 @@ September, 2023
 * **Visualization:** [Tableau](https://public.tableau.com/app/profile/aerojasm/viz/SuperstoreDashboard_16999750588960/Overview)
 
 _Preview:_
-[Overview Preview](Overview.png)
+![Overview Preview](Overview.png)
